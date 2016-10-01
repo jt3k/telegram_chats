@@ -7,3 +7,4 @@
   Чат про нейронные сети: https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA
 * Chat for members of Chatbots Community (www.chatbotscommunity.com) about Jobs and Projects. Invite link - https://telegram.me/joinchat/ABI4pz7v7KfJhb12XIkIUA
 * https://telegram.me/startuptodaychat - StartUp.Today chat
+* Это чат про нейронные сети для членов Chatbots and AI Community. Ссылка на приглашение сюда https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA
