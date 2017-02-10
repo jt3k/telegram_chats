@@ -1,6 +1,9 @@
 # telegram_chats
 
 * https://telegram.me/react_js – React.js – русскоговорящее сообщество
+* https://t.me/javascript_js – Общение на тему javascript
+* https://t.me/css_js – Обсуждаем CSS, решаем вместе возникающие проблемы
+* https://t.me/frontend_js – Русскоговорящее сообщество  фронтенд-разработчиков
 * https://telegram.me/tatfondbank - Татфонт банк, вопросы по хакатону Inpirussia Иннополис сентябрь 2016
 * https://telegram.me/data_science_community - Чат про Data Science для членов Chatbots and AI Community.
   Invite link: https://telegram.me/joinchat/ABI4p0BlTXEkC91Qa9aTPg
